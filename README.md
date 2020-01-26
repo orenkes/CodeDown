@@ -1,5 +1,7 @@
 ## CodeDown 🤠
 
+A retro truvia video game
+
 - Built with React
 - Styled by styled components
 - Responsive music and sound effects controls
